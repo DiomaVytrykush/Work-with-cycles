@@ -1,6 +1,5 @@
 var firstInput = document.querySelector("#first");
 var secondInput = document.querySelector("#second");
-var button = document.querySelector("#btn");
 var display = document.querySelector("#content");
 
 function countNumbers (numberOne , numberTwo){
